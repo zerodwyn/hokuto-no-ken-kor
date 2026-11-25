@@ -5,7 +5,7 @@
 - 블로그 소개글: https://dwyn.tistory.com/9
 - 최신 버전 다운로드: [Releases](../../releases/latest)
 - 버그 제보: [Issues → 버그 제보](../../issues/new/choose)
-- 후원: https://litt.ly/dwyn
+<!-- - 후원: https://litt.ly/dwyn -->
 
 ## 작업 사항 및 변경 이력
 
